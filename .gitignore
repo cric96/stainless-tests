@@ -237,6 +237,8 @@ project/plugins/project/
 # Stainless gitiginore
 target/
 .stainless-cache/
+stainless-stack-trace.txt
+**/log.txt
 
 stainless-stack-trace.txt
 **/log.txt
