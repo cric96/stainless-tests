@@ -238,3 +238,5 @@ project/plugins/project/
 target/
 .stainless-cache/
 
+stainless-stack-trace.txt
+**/log.txt
